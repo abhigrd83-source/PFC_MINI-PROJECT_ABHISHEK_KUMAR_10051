@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+//Abhishek Kumar 10051//
     int a, b, choice, result;
 
     printf("Enter first integer: ");
@@ -45,3 +46,18 @@ int main() {
 
     return 0;
 }
+//output//
+//Enter first integer: 5//
+//Enter second integer: 2//
+
+//--- Bitwise Utility Tool ---//
+//1. AND (&)//
+//2. OR (|)//
+//3. XOR (^)//
+//4. Left Shift (<<)//
+//5. Right Shift (>>)//
+//Enter your choice: 1//
+//Result = 0//
+
+
+//=== Code Execution Successful ===//
